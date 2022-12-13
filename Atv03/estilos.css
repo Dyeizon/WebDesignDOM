@@ -28,12 +28,12 @@ body {
     align-items: center;
     flex-direction: column;
     color: white;
-    padding: 50px;
+    padding: 20px 50px;
 }
 
 #form-to-do-list > h2 {
     font-size: 20px;
-    margin: 20px 0;
+    margin-bottom: 20px;
 }
 
 #form-to-do-list > div {
@@ -43,6 +43,7 @@ body {
 }
 
 ul {
+    margin-top: 20px;
     list-style: none;
     width: 100%;
 }
